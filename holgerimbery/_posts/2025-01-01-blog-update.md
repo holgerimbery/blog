@@ -4,7 +4,7 @@ title: blog update and a sundown and a new start
 description: latest news regarding this blog
 date: 2025-01-01
 author: admin
-image: ./images/sundown.jpg
+image: https://raw.githubusercontent.com/holgerimbery/holgerimbery.blog/main/holgerimbery/images/sundown.jpg
 image_caption: 'Photo by <a href="https://unsplash.com/de/@jeisblack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Mavrommatis</a> on <a href="https://unsplash.com/de/fotos/sonnenuntergangs-szenerie-fotografie-byqgHC0XFME?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 tags: [internalnews]
 featured: false
