@@ -17,4 +17,5 @@ github: https://github.com/holgerimbery/
 devto: https://dev.to/holgerimbery
 medium: https://holgerimbery.medium.com
 hashnode: https://holgerimbery.hashnode.dev
+sessionize: https://sessionize.com/holgerimbery/
 ---
