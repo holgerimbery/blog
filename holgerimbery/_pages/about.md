@@ -14,18 +14,5 @@ My mission is to unravel the complexities of AI technology and make it accessibl
 {: .q-left }
 > Please be aware that the information in my articles may become outdated over time due to ongoing technological advancements. Consider them current as of the date they were published.
 
-## What I Cover
-### In-Depth Guides:
-Learn how to harness the full potential of these SaaS solutions in your daily tasks.
-
-### Latest Updates:
-Stay informed about the newest features and updates.
-
-### User Stories:
-Discover how individuals and businesses are transforming their operations with the help of these SaaS solutions.
-
-### Tips & Tricks:
-Get insider knowledge on optimizing your interaction for maximum efficiency.
-
 ### generative AI transparency note
 Utilizing AI-supervised content allows me to expand the material for my scenarios. It enables me to offer a broader range of examples across various programming languages, delve into solutions with more depth, and address new scenarios more swiftly. As a non-native speaker, it enables me to write in proper English and avoid grammatical and orthographic mistakes. I use [Github Copilot](https://github.com/features/copilot) and [grammarly](https://www.grammarly.com) to support me in this task. 
