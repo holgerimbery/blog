@@ -1,4 +1,4 @@
-for code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  | for anything else  [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+for code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  | for anything else  [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) | [![Azure Static Web Apps CI/CD](https://github.com/holgerimbery/holgerimbery.blog/actions/workflows/azure-static-web-apps-thankful-pebble-058e7d903.yml/badge.svg)](https://github.com/holgerimbery/holgerimbery.blog/actions/workflows/azure-static-web-apps-thankful-pebble-058e7d903.yml)
 # source of https://holgerimbery.blog
 a public repository of Blog: holgerimbery.blog
 
